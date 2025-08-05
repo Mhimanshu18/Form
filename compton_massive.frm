@@ -47,6 +47,7 @@ Local m2 = m1m1 + m1m2 + m2m1 + m2m2;
 
 Trace4, 1;
 
+*To compare with feyncalc numerator
 Multiply [s-me^2]^2*[u-me^2]^2*2^-1*e^-4;
 
 id p1.p1 = me^2;
